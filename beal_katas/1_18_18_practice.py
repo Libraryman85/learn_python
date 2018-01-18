@@ -1,0 +1,2 @@
+name = 'grande'
+print(name)
