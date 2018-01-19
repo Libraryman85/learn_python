@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e3813d7-f94c-4da7-b15c-398b88c8df0b" name="Default" comment="" />
+    <list default="true" id="1e3813d7-f94c-4da7-b15c-398b88c8df0b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py" afterPath="$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file leaf-file-name="hello_you_project.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -409,8 +411,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>

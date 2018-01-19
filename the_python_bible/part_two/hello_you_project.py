@@ -4,10 +4,11 @@
 # Ask user what they enjoy
 # create output text
 # print output to screen
-name = input('')
+name = input('What is your name?: ' )
 
-age = input('')
+age = input('How old are you?: ')
 
-city = input('')
+city = input('What city do you live in?: ')
 
-enjoy = input('')
+love = input('What is your favorite hobby?: ')
+
