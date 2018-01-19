@@ -9,4 +9,3 @@ else:
 # float = decimal
 # boolean = true/false
 # string = word/text
-
