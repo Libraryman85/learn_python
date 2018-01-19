@@ -12,3 +12,5 @@ city = input('What city do you live in?: ')
 
 love = input('What is your favorite hobby?: ')
 
+#str() to turn int into str
+
