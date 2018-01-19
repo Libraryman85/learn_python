@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e3813d7-f94c-4da7-b15c-398b88c8df0b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/the_python_bible/part_two/beginning_strings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py" afterPath="$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,21 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="beginning_strings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/the_python_bible/part_two/beginning_strings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="hello_you_project.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -138,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.beginning_strings">
+  <component name="RunManager" selected="Python.hello_you_project">
     <configuration name="1_18_18_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,24 +158,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learn_python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/the_python_bible/part_one/basic_algebra_coding_challenge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="beginner_sushi_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beal_katas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learn_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beal_katas/beginner_sushi_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,20 +199,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="hello_you_project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/the_python_bible/part_two" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learn_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.beginner_sushi_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1_18_18_practice" />
-      <item index="2" class="java.lang.String" itemvalue="Python.find_number" />
-      <item index="3" class="java.lang.String" itemvalue="Python.basic_algebra_coding_challenge" />
-      <item index="4" class="java.lang.String" itemvalue="Python.beginning_strings" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1_18_18_practice" />
+      <item index="1" class="java.lang.String" itemvalue="Python.find_number" />
+      <item index="2" class="java.lang.String" itemvalue="Python.basic_algebra_coding_challenge" />
+      <item index="3" class="java.lang.String" itemvalue="Python.beginning_strings" />
+      <item index="4" class="java.lang.String" itemvalue="Python.hello_you_project" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.beginning_strings" />
-        <item index="1" class="java.lang.String" itemvalue="Python.basic_algebra_coding_challenge" />
-        <item index="2" class="java.lang.String" itemvalue="Python.find_number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1_18_18_practice" />
-        <item index="4" class="java.lang.String" itemvalue="Python.beginner_sushi_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.hello_you_project" />
+        <item index="1" class="java.lang.String" itemvalue="Python.beginning_strings" />
+        <item index="2" class="java.lang.String" itemvalue="Python.basic_algebra_coding_challenge" />
+        <item index="3" class="java.lang.String" itemvalue="Python.find_number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1_18_18_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -423,8 +411,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/the_python_bible/part_two/hello_you_project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
