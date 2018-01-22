@@ -24,6 +24,8 @@ age = 32
 
 end = ' years old'
 
-output = format(start, age, end)
+string = '{}{}{}'
+
+output = string.format(start, age, end)
 
 print(output)
