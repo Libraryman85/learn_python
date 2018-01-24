@@ -9,3 +9,6 @@ word[0]
 # to slice you do variablename[startindex:endindex:step]
 print(word[0:5:1])
 print(word[5:9:1])
+print(word[5:])
+print(word[5::2])
+
