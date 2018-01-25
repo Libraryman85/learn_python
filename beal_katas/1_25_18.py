@@ -1,6 +1,6 @@
 import sys
 
-message = sys.argv[1]
+message = sys.argv[0]
 
 # str = 'this is a str'
 # bool = True # False
