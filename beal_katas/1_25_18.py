@@ -10,3 +10,17 @@ message = sys.argv[0]
 message = 'hello world'
 print(message)
 # else, not if then. it is if else
+
+# print each letter in a given string
+
+#p
+#r
+#o
+#g
+
+message = 'programming 101'
+
+#for <variable_name> in <colletion>
+#   <action>
+for letter in message:
+    print(letter)
