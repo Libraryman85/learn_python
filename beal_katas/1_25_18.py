@@ -7,3 +7,9 @@ def find_number(search):
         print('goodbye')
 
 find_number('0')
+
+#str = 'this is a str'
+#bool = True # False
+#int = 1
+#float = 1.0
+
