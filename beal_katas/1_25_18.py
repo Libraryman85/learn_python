@@ -12,6 +12,7 @@ print(message)
 # else, not if then. it is if else
 
 # print each letter in a given string
+#
 
 #p
 #r
@@ -20,7 +21,17 @@ print(message)
 
 message = 'programming 101'
 
-#for <variable_name> in <colletion>
+# for <variable_name> in <colletion>
 #   <action>
 for letter in message:
     print(letter)
+
+# print true or false if a letter exists in a given string
+
+search_value = 'a'
+
+if search_value in message:
+    print(True)
+else:
+    print(False)
+message = 'Hello World'
