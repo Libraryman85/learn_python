@@ -14,10 +14,10 @@ print(message)
 # print each letter in a given string
 #
 
-#p
-#r
-#o
-#g
+# p
+# r
+# o
+# g
 
 message = 'programming 101'
 
@@ -29,9 +29,8 @@ for letter in message:
 # print true or false if a letter exists in a given string
 
 search_value = 'a'
-
+message = 'Hello World'
 if search_value in message:
     print(True)
 else:
     print(False)
-message = 'Hello World'
