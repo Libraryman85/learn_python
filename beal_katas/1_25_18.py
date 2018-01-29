@@ -12,12 +12,6 @@ print(message)
 # else, not if then. it is if else
 
 # print each letter in a given string
-#
-
-# p
-# r
-# o
-# g
 
 message = 'programming 101'
 
