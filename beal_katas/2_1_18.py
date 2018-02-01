@@ -1,21 +1,21 @@
-#strings can be in single or double quotes
-#str = 'test'
-#str2 = "test"
+# strings can be in single or double quotes
+# str = 'test'
+# str2 = "test"
 
-#string interpolation {}
+# string interpolation {}
 
-#bool
-#boolean  is true/false
-#bool = True
-#bool_false = False
+# bool
+# boolean  is true/false
+# bool = True
+# bool_false = False
 
-#int
-#int = 1
-#int = -1
+# int
+# int = 1
+# int = -1
 
-#floats are decimals
-#float = 1.0
-#float_negative = -1.0
+# floats are decimals
+# float = 1.0
+# float_negative = -1.0
 
 
 # casting
@@ -31,3 +31,14 @@ print(bool(.1))
 print(bool('fale'))
 print(bool(None))
 print(bool([]))
+
+# list data type
+_list = ['Alex', 'Grande', 'Sara', 'Danie', 'Laura', 'Jen']
+
+
+for name in _list:
+
+    print(name)
+
+
+
