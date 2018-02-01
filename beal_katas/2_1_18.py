@@ -59,3 +59,15 @@ def print_character(input):
 
 
 print_character('supercalifragilisticexpialidocious')
+
+# == compares
+# practice 2: create a function that takes 2 inputs then prints True/False whether or not the first input is contained
+# within the second input
+
+def search_character(search,find):
+    for character in find:
+        if character == search:
+            print(True):
+      
+
+search_character('a', 'purple')
