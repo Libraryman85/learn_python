@@ -44,3 +44,18 @@ for name in _list:
 name = 'name'
 for character in name:
     print(character)
+
+# Practice: create a function that creates in input, then prints each character of the input
+
+person_name = input('What is your name?: ')
+
+for character in person_name:
+    print(character)
+
+def print_character(input):
+    for character in input:
+        print(character)
+
+print_character('supercalifragilisticexpialidocious')
+
+
