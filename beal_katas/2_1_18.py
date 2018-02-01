@@ -13,3 +13,10 @@
 #int = 1
 #int = -1
 
+#floats are decimals
+#float = 1.0
+#float_negative = -1.0
+
+
+# casting
+# output = '1' + 1
