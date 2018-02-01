@@ -22,4 +22,12 @@
 # output = '1' + 1
 # to convert string to int
 # int('1')
+# turn int to str
+# (1)
 
+print(bool(0))
+print(bool(1))
+print(bool(.1))
+print(bool('fale'))
+print(bool(None))
+print(bool([]))
