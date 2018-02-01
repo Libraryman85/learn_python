@@ -20,3 +20,6 @@
 
 # casting
 # output = '1' + 1
+# to convert string to int
+# int('1')
+
