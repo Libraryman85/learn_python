@@ -35,10 +35,12 @@ print(bool([]))
 # list data type
 _list = ['Alex', 'Grande', 'Sara', 'Danie', 'Laura', 'Jen']
 
-
 for name in _list:
-
     print(name)
 
+# for {variable_name} in <collection>:
+# <action>
 
-
+name = 'name'
+for character in name:
+    print(character)
