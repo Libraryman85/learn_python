@@ -12,9 +12,9 @@ def print_characters(input_string):
 # is contained within a second input
 
 text_value = 'some input'
-def search_string(search, word_b):
+def search_string(search, text_input):
     result = False
-    for character in word_b:
+    for character in text_input:
         if character == search:
             result = True
     print(result)
