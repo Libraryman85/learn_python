@@ -13,10 +13,13 @@ def print_characters(input_string):
 
 text_value = 'some input'
 def search_string(search, word_b):
+    result = False
     for character in word_b:
         if character == search:
-            print(True)
+            result = True
+    print(result)
 
 search_string('a', text_value)
 search_string('s', text_value)
 search_string('S', text_value)
+
