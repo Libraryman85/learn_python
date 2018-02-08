@@ -12,3 +12,7 @@ def print_characters(input_string):
 # is contained within a second input
 
 
+def search_string(word_a, word_B):
+    for character in word_a:
+        if character == word_b:
+            print(True)
