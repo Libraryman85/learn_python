@@ -11,8 +11,12 @@ def print_characters(input_string):
 # create a function tha ttakes 2 inputs, then prints true/false whether or ont the first
 # is contained within a second input
 
-
-def search_string(word_a, word_B):
-    for character in word_a:
-        if character == word_b:
+text_value = 'some input'
+def search_string(search, word_b):
+    for character in word_b:
+        if character == search:
             print(True)
+
+search_string('a', text_value)
+search_string('s', text_value)
+search_string('S', text_value)
