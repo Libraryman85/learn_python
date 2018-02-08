@@ -7,3 +7,8 @@ print('\n'.join('toast'))
 def print_characters(input_string):
     for character in input_string:
         print(character)
+
+# create a function tha ttakes 2 inputs, then prints true/false whether or ont the first
+# is contained within a second input
+
+
