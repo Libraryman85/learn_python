@@ -22,7 +22,7 @@ def test_fizz_buzz_three():
 
 
 def test_fizz_buzz_six():
-    expected_result = ['1', '2', 'fizz', '4','5','fizz']
+    expected_result = ['1', '2', 'fizz', '4','buzz','fizz']
     result = fizz_buzz(6)
     assert expected_result == result
 
