@@ -4,7 +4,10 @@ def fizz_buzz(upper_bound):
         count = index + 1
         if count % 3 == 0:
             result.append('fizz')
+        elif count % 5 == 0:
+            result.append('buzz')
         else:
+
 
             result.append(str(count))
     return result
