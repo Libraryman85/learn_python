@@ -26,5 +26,9 @@ def test_fizz_buzz_six():
     result = fizz_buzz(6)
     assert expected_result == result
 
+def test_fizz_buzz_fifteen():
+    expected_result = ['1', '2', 'fizz', '4','buzz','fizz','7','8','fizz','buzz','11','fizz','13','14','fizzbuzz']
+    result = fizz_buzz(15)
+    assert expected_result == result
 
 from beal_katas.fizz_buzz.fizz_buzz import fizz_buzz
