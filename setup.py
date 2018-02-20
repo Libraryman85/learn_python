@@ -11,6 +11,9 @@ setup(
     keywords=['libraryman85', 'python', 'kata',],
     install_requires=[
         'pytest',
+        'flask',
+        'flask-runner',
+        'flask-script'
     ],
     classifiers=[
         'Environment :: Console',
