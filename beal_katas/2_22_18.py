@@ -14,3 +14,9 @@ for attendee in attendees:
 
 print(employees['alex'])
 print(employees.get('ilya','russian apy'))
+
+for key in employees:
+    print(key + ' - ' + employees[key])
+
+for key, value in employees.items():
+    print(key + ' - ' + value)
