@@ -20,3 +20,10 @@ for key in employees:
 
 for key, value in employees.items():
     print(key + ' - ' + value)
+
+
+
+# def my_method():
+#   temp = 1
+#
+#print(temp)
