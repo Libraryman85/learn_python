@@ -34,7 +34,7 @@ default_equipment = {
     'hat' : Hat('peasant'),
     'shoes' : None
 }
-sara = Adventurer('sara', default_equipment)
+
 
     # def receive_map(self, other_adventurer):
     #     other_map = other_adventurer.map
