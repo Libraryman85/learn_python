@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e3813d7-f94c-4da7-b15c-398b88c8df0b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/flask_hello_world/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/flask_hello_world/hello_world.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/flask_hello_world/server.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/python_201/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/python_201/adventurer_2.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
+      <change beforePath="$PROJECT_DIR$/flask_hello_world/server.py" afterPath="$PROJECT_DIR$/flask_hello_world/server.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,33 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup.py">
+      <file leaf-file-name="adventurer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beal_katas/adventurer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state relative-caret-position="727">
+              <caret line="77" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flask_hello_world/server.py">
+      <file leaf-file-name="adventurer_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_201/adventurer_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello_world.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_hello_world/hello_world.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="727">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,17 +90,19 @@
         <option value="$PROJECT_DIR$/beal_katas/fizz_buzz/fizz_buzz_test.py" />
         <option value="$PROJECT_DIR$/beal_katas/fizz_buzz/fizz_buzz.py" />
         <option value="$PROJECT_DIR$/beal_katas/2_15_18.py" />
-        <option value="$PROJECT_DIR$/beal_katas/adventurer.py" />
         <option value="$PROJECT_DIR$/flask_hello_world/hello_world.py" />
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/flask_hello_world/server.py" />
+        <option value="$PROJECT_DIR$/beal_katas/2_22_18.py" />
+        <option value="$PROJECT_DIR$/beal_katas/adventurer.py" />
+        <option value="$PROJECT_DIR$/python_201/adventurer_2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
+    <option name="x" value="4" />
     <option name="y" value="24" />
-    <option name="width" value="850" />
+    <option name="width" value="1304" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,6 +143,11 @@
             <path>
               <item name="learn_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn_python" type="462c0819:PsiDirectoryNode" />
+              <item name="python_201" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn_python" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -186,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hello_world">
+  <component name="RunManager" selected="Python.adventurer">
     <configuration name="2_15_18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,6 +193,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learn_python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beal_katas/2_15_18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="2_22_18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beal_katas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learn_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beal_katas/2_22_18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,20 +252,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="flask_hello_world" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beal_katas" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_hello_world" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learn_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beal_katas/fizzbuzz.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_hello_world/server.py" />
+      <option name="PARAMETERS" value="runserver" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -292,21 +303,22 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/beal_katas/fizz_buzz&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.fizz_buzz_test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.fizzbuzz" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.flask_hello_world" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.fizz_buzz_test" />
       <item index="2" class="java.lang.String" itemvalue="Python.fizz_buzz" />
       <item index="3" class="java.lang.String" itemvalue="Python.2_15_18" />
       <item index="4" class="java.lang.String" itemvalue="Python.adventurer" />
       <item index="5" class="java.lang.String" itemvalue="Python.hello_world" />
+      <item index="6" class="java.lang.String" itemvalue="Python.2_22_18" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.hello_world" />
-        <item index="1" class="java.lang.String" itemvalue="Python.adventurer" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2_15_18" />
-        <item index="3" class="java.lang.String" itemvalue="Python.fizz_buzz" />
-        <item index="4" class="java.lang.String" itemvalue="Python.fizzbuzz" />
+        <item index="0" class="java.lang.String" itemvalue="Python.adventurer" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2_22_18" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hello_world" />
+        <item index="3" class="java.lang.String" itemvalue="Python.2_15_18" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fizz_buzz" />
       </list>
     </recent_temporary>
   </component>
@@ -323,48 +335,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513653972862</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Python 101 with Justin Beall. Python Data Types">
-      <created>1516900954039</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1516900954039</updated>
-    </task>
-    <task id="LOCAL-00020" summary="own katas">
-      <created>1516901032618</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1516901032618</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Python 101 with Justin Beall">
-      <created>1516901333004</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1516901333004</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Python 101 with Justin Beall">
-      <created>1516901717781</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1516901717781</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Python 101 with Justin Beall">
-      <created>1516902072729</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1516902072729</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Python 101 with Justin Beall">
-      <created>1516902165819</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1516902165819</updated>
     </task>
     <task id="LOCAL-00025" summary="Python 101 with Justin Beall">
       <created>1516902853238</created>
@@ -667,7 +637,49 @@
       <option name="project" value="LOCAL" />
       <updated>1518717970345</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Setting up Flask">
+      <created>1519149361703</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1519149361703</updated>
+    </task>
+    <task id="LOCAL-00069" summary="learning about dict">
+      <created>1519320322786</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1519320322787</updated>
+    </task>
+    <task id="LOCAL-00070" summary="learning about dict">
+      <created>1519320527842</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1519320527842</updated>
+    </task>
+    <task id="LOCAL-00071" summary="learning about dict">
+      <created>1519321169355</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1519321169355</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Refining/adding to Adventurer. &#10;&#10;Defining 'Hat'">
+      <created>1519322450133</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1519322450133</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Refining/adding to Adventurer. &#10;&#10;Defining 'Hat'">
+      <created>1519322507154</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1519322507154</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -703,14 +715,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="24" width="850" height="876" extended-state="0" />
+    <frame x="4" y="24" width="1304" height="876" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2552941" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16641104" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31094527" sideWeight="0.5085885" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31094527" sideWeight="0.4914115" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31094527" sideWeight="0.4914115" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -774,7 +786,10 @@
     <MESSAGE value="cleaned code" />
     <MESSAGE value="Practicing Classes" />
     <MESSAGE value="Practicing Classes, need to figure out how to concatonte and clarify data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practicing Classes, need to figure out how to concatonte and clarify data" />
+    <MESSAGE value="Setting up Flask" />
+    <MESSAGE value="learning about dict" />
+    <MESSAGE value="Refining/adding to Adventurer. &#10;&#10;Defining 'Hat'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refining/adding to Adventurer. &#10;&#10;Defining 'Hat'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -793,28 +808,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beal_katas/2_1_18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the_python_bible/part_two/email_slicer_project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beal_katas/1_25_18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beal_katas/1_25_18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1116,18 +1109,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beal_katas/2_15_18.py">
+    <entry file="file://$PROJECT_DIR$/flask_hello_world/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beal_katas/adventurer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1141,19 +1126,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask_hello_world/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beal_katas/2_15_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_hello_world/server.py">
+    <entry file="file://$PROJECT_DIR$/beal_katas/2_22_18.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.3/python_stubs/-1184222746/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8821">
+          <caret line="806" column="8" lean-forward="false" selection-start-line="806" selection-start-column="8" selection-end-line="806" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beal_katas/adventurer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_201/adventurer_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
